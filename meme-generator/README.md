@@ -1,28 +1,7 @@
 
 
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/passandscore/Meme-Generator/meme-generator">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="Logo" width="300" height="250">
-  </a>
 
-  <h3 align="center">Meme Generator</h3>
-
-  <p align="center">
-    A quick way to generate a must have meme!
-    <br />
-    <a href="https://github.com/passandscore/Meme-Generator/meme-generator/README.md"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/passandscore/Meme-Generator/meme-generator/README.md">View Demo</a>
-    ·
-    <a href="https://github.com/passandscore/Meme-Generator/meme-generator/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/passandscore/Meme-Generator/meme-generator/README.md/issues">Request Feature</a>
-  </p>
-</p>
-
+  <h1 align="center">Meme Generator</h1>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
